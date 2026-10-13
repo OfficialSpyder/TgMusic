@@ -1,0 +1,6 @@
+asyncio
+pyrogram>=2.0.106
+tgcrypto>=1.2.5
+py-tgcalls>=2.2.8
+yt-dlp>=2024.3.10
+python-dotenv>=1.0.0
