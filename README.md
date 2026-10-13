@@ -31,8 +31,8 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install python3 python3-pip python3-venv git ffmpeg -y
 
 # 2. Clone the core repository and move into the workspace directory
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-cd YOUR_REPOSITORY_NAME
+git clone https://github.com/OfficialSpyder/TgMusic.git
+cd TgMusic
 
 # 3. Initialize an isolated virtual environment and activate it
 python3 -m venv venv
